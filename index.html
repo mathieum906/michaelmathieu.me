@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <!-- Basic Page Needs
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Home | Michael Mathieu</title>
+  <meta name="description" content="Personal site for Michael Mathieu.">
+  <meta name="author" content="mmathieu">
+
+  <!-- CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.0/mini-default.min.css">
+
+  <!-- JS
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion({
+      heightStyle: "content"
+    });
+  } );
+  </script>
+
+</head>
+
+<body>
+
+  <!-- Navigation Bar
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <header class="sticky">
+    <a href="#" class="logo">Michael Mathieu</a>
+    <a href="#" class="button">Home</a>
+    <a href="#about" class="button">About</a>
+    <a href="projects.html" class="button">Projects</a>
+    <a href="writings.html" class="button">Writings</a>
+    <a href="#unesco" class="button">UNESCO</a>
+    <a href="contact.html" class="button">Contact</a>
+  </header>
+
+  <div class="container" id="bodyDiv">
+
+  <!-- Home Content Block
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <div class="row">
+      <div class="col-sm-12 col-md-10 col-md-offset-1" style="height: 100vh; padding-top: 30vh">
+        <div>
+          <h3><strong>Hi!</strong> I'm <mark>Michael Mathieu</mark>!</h3>
+          <p>You've reached my personal site, home of my projects and writings.</p>
+          <p>It's very much a work-in-progress, as I'm learning while designing it.</p>
+          <p>You can find more about me by browsing the other tabs above.</p>
+          <p>Also, feel free to connect with me on <strong><a href="http://www.linkedin.com/in/michael-mathieu-24059a28">LinkedIn</a></strong>!</p>
+        </div>
+      </div>
+    </div>
+
+
+  <!-- About Content Block
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <div class="row">
+      <a name="about"></a>
+      <div class="col-sm-12 col-md-10 col-md-offset-1" style="height: 100vh; padding-top:10vh">
+        
+        <h3>About Me</h3>
+
+        <div class="row">
+          
+          <!-- About Content Container -->
+
+          <div class="col-sm-12" style="height: 80vh;">
+
+            <!-- About Section 1 -->
+            
+            <div class="row">
+              <h3>Work</h3>
+              <p>I was born and raised in the Upper Peninsula of Michigan, in a tiny town outside of Houghton. I grew up living with my mother and spending most free time with my grandfather, a history teacher. His influence on my life cannot be overstated, and I credit my love of history to him.</p>
+
+            
+            <div class="row">
+              <h3>Play</h3>
+              <p>I was born and raised in the Upper Peninsula of Michigan, in a tiny town outside of Houghton. I grew up living with my mother and spending most free time with my grandfather, a history teacher. His influence on my life cannot be overstated, and I credit my love of history to him.</p>
+              
+            </div>
+
+          </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- Third Content Block
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <div class="row">
+    <div class="col-sm-12 col-md-10 col-md-offset-1" style="height: 100vh; padding-top:10vh">
+      <a name="not about"></a>
+    </div>
+  </div>
+
+  <!-- UNESCO Content Block
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <div class="row">
+    <a name="unesco"></a>
+    <div class="col-sm-12 col-md-10 col-md-offset-1" style="height: 100vh; padding-top:10vh;" id="unescoBody">
+      <h3>Visiting UNESCO Sites</h3>
+      <div class="row" id="unescoText">
+        <p>Currently, I have visited <strong id="siteCount"></strong>. They are listed with dates where a part of the site was originally visted.</p>
+      </div>
+      <div class="row" id="unescoPicker">
+        <p>Filter by Country:</p> 
+        <select id="countryPicker" selected="Pick"></select>
+      </div>
+      <div class="row" id="sitesList" style="height: 70vh; overflow: auto;">
+        <!-- Sites populate here -->
+      </div>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Close Page Container
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  </div>
+
+  <footer>
+    
+  </footer>
+
+  <!-- Script to control UNESCO site population -->
+  <script type="text/javascript" src="unescoapp.js"></script>    
+
+</body>
+
+</html>

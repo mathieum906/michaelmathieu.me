@@ -398,7 +398,7 @@
 	"country":"UK",
 	"dateVisited":"August 06, 2016",
 	"sortDateVisited":20160806,
-	"image":"<a href='https://photos.google.com/share/AF1QipNQzNDWVNGj3h69SkUELz77GYoB4cYTXvR1cBieqLaDGHW3ydiwjDuPoF1PZOj8yg?key=NUEzckhlS21HaGtLTWJVdG1kRmM0SW50MDlwR0p3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/-M1Ofz6WYq9Ob5oecvxhjAbytVuL3zVANzhrfnPjvHKAXCQvlFuCbF33gQUVVxyRMWUYTC2XTCwcdLTfu0eguNWAzzM9OiM4BkkRRj43cMnPEOpiEaG-iLwzKfT3mdDb-64eNrIiJdA=w2400' /></a>"
+	"image":"https://lh3.googleusercontent.com/-M1Ofz6WYq9Ob5oecvxhjAbytVuL3zVANzhrfnPjvHKAXCQvlFuCbF33gQUVVxyRMWUYTC2XTCwcdLTfu0eguNWAzzM9OiM4BkkRRj43cMnPEOpiEaG-iLwzKfT3mdDb-64eNrIiJdA=w2400"
 },
 {	
 	"ident":"whc78",
@@ -509,6 +509,26 @@
 	"dateVisited":"September 23, 2017",
 	"sortDateVisited":20170923,
 	"image":"./unescophotos/whc782.jpg"
+},
+{	
+	"ident":"whc265",
+	"name":"Convent of Christ in Tomar",
+	"whcSite":"http://whc.unesco.org/en/list/265",
+	"city": "Tomar",
+	"country":"Portugal",
+	"dateVisited":"October 28, 2017",
+	"sortDateVisited":20171028,
+	"image":"https://lh3.googleusercontent.com/rZsuxCc6n5jpcSQ87zSZ6vRxXWz8VQl-drweleu67-u_PawISgIT6P2iWHeI-JR-952SNAlOYfbH_j8ackn6MRPUi8OqZ-8wdmwDmUJpfqzwWsVhAe264Kk44inHQ7Hyo1awg5LdRdU=w2400"
+},
+{	
+	"ident":"whc1387",
+	"name":"University of Coimbra – Alta and Sofia",
+	"whcSite":"http://whc.unesco.org/en/list/1387",
+	"city": "Coimbra",
+	"country":"Portugal",
+	"dateVisited":"October 28, 2017",
+	"sortDateVisited":20171028,
+	"image":"https://lh3.googleusercontent.com/Aa77sGhGk29gKRf4CPwku6BVyBEpLRMi1PubdcHSyXAXKq_owQJBLG4gKyDhzNfPgAxJYWsb9xeiNVZfXhKt7nfW9Cb-6PfYBG2iRyUjtMe_VMBSSIWqx9F0uMqqdq3w2DCEXN6hrlA=w2400"
 }
 
 

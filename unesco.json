@@ -899,7 +899,48 @@
 	"dateVisited":"March 27, 2019",
 	"sortDateVisited":20190327,
 	"image":"https://lh3.googleusercontent.com/8I-40ukpHhEMnHg4iZStj8nsYwfcJleLWdEbfU9yPlfQKof6C2Ae6Z0rPJ7oIT8aUQ5Irf-xqU4OR1TMLAw0IwODaetQgGEGgYwa_LTdSjR0S7EvPev9Em_trWneiG96zWjt8lcwuEg=w2400"
+},
+{	
+	"ident":"whc1042",
+	"name":"Old City of Acre",
+	"whcSite":"http://whc.unesco.org/en/list/1042",
+	"city": "Acre",
+	"country":"Israel",
+	"dateVisited":"April 30, 2019",
+	"sortDateVisited":20190430,
+	"image":"https://lh3.googleusercontent.com/JLaVwJhLILR-pSTp5kJpIB-BtwbUIf0HU9NIpNDASk6GBswS11OU84k-i7aUurf62OxgRKyzT7aTHx1ZP9zvVS1ITYJvBeYlbgqv8I80PC5M6MPJCTJXXxjzsQ8R239tlYqeQvOzOZA=w2400"
+},
+{	
+	"ident":"whc1108",
+	"name":"Biblical Tels - Megiddo, Hazor, Beer Sheba",
+	"whcSite":"http://whc.unesco.org/en/list/1108",
+	"city": "Megiddo",
+	"country":"Israel",
+	"dateVisited":"May 1, 2019",
+	"sortDateVisited":20190501,
+	"image":"https://lh3.googleusercontent.com/JUbAdJiXWf6B38ibwlKAFxDAqdxyRZhEHTHW6pE_lWlzFVI3ioAibj6XIs-y0UxXg3C3toro48wHZY9ysF3fQKEwO7Fv9cI8Y-iDA9yHwlyV4nkpJvLWOvPThH1Jx0QzJQY2XITpxQ8=w2400"
+},
+{	
+	"ident":"whc1471",
+	"name":"Necropolis of Bet She’arim: A Landmark of Jewish Renewal",
+	"whcSite":"http://whc.unesco.org/en/list/1471",
+	"city": "Bet She'arim",
+	"country":"Israel",
+	"dateVisited":"May 1, 2019",
+	"sortDateVisited":20190501,
+	"image":"https://lh3.googleusercontent.com/D1PcO1C-z0OWJFpFFIt7TC4j6apBPPCbAqo392EXV0nEZGU45wzs8ScTkdbSVAxGm94Nu0ogtreXX4GlHePSjjn0p8FwByphey673WmL2NPPd9_PN1AGQKrPPyHS2dPQ2d8zAvveiCE=w2400"
+},
+{	
+	"ident":"whc1393",
+	"name":"Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves",
+	"whcSite":"http://whc.unesco.org/en/list/1393",
+	"city": "Ein Carmel",
+	"country":"Israel",
+	"dateVisited":"May 2, 2019",
+	"sortDateVisited":20190502,
+	"image":""
 }
+
 
 
 
